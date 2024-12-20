@@ -11,7 +11,8 @@
 <p align="center">
   Feel free to explore my repositories and reach out if you want to collaborate on something awesome!
 </p>
-<table>
+<br>
+<table align="center">
   <tr>
     <td align="center" style="vertical-align: top;">
       <p>
